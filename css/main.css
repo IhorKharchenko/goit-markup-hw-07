@@ -623,19 +623,19 @@ header::after {
 }
 
 .icon-antenna::before {
-  background-image: url("../../images/studio/antenna.svg");
+  background-image: url("./../images/studio/antenna.svg");
 }
 
 .icon-clock::before {
-  background-image: url("../../images/studio/clock.svg");
+  background-image: url("./../images/studio/clock.svg");
 }
 
 .icon-diagram::before {
-  background-image: url("../../images/studio/diagram.svg");
+  background-image: url("./../images/studio/diagram.svg");
 }
 
 .icon-astronaut::before {
-  background-image: url("../../images/studio/astronaut.svg");
+  background-image: url("./../images/studio/astronaut.svg");
 }
 
 .features .content-box {
